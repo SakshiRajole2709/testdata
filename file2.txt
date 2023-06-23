@@ -1,2 +1,1 @@
-this is testing file
-I want to test it.
+This for testing
